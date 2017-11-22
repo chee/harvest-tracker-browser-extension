@@ -4,7 +4,7 @@
   "description": "The missing link between Harvest and PivotalTracker.",
   "author": "Michael Giuliana <mike@codeandcraft.nyc>",
   "homepage_url": "https://github.com/chee/harvest-tracker-browser-extension",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "icons": {
     "16": "icon16.png",
     "48": "icon48.png",
