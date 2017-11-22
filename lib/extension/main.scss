@@ -1,24 +1,3 @@
-section.model_details .story .persistence.use_click_to_copy .save,
-section.model_details .story .persistence.use_click_to_copy .close {
-  width: 78px;
-}
-
-.story.model.item header.preview {
-  .expander {
-    width: 13px;
-  }
-
-  .meta {
-    margin-left: 34px;
-    &:before {
-      margin-left: -35px;
-    }
-    span {
-      width: 14px;
-    }
-  }
-}
-
 span.harvest-timer.harvest-timer {
   background: #e0e2e5;
   border: 1px solid #c8cbc5;
